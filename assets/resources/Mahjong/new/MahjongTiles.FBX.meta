@@ -1,0 +1,1285 @@
+{
+  "ver": "1.0.15",
+  "uuid": "ce371855-ebe7-4f50-94e1-f5628506a980",
+  "scaleFactor": 1,
+  "boneCount": 0,
+  "precomputeJointMatrix": false,
+  "animationFrameRate": 30,
+  "subMetas": {
+    "buffer.bin": {
+      "ver": "1.0.0",
+      "uuid": "20dfbe18-6065-4f5a-86a0-4f9093770bdd",
+      "name": "buffer.bin",
+      "subMetas": {}
+    },
+    "Bam_1.mesh": {
+      "ver": "1.0.1",
+      "uuid": "c5395170-db56-4813-9e43-d76ae582e907",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707473993301,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366708010435104,
+        "y": 0.260106801986694,
+        "z": 0.509553551673889
+      },
+      "name": "Bam_1.mesh",
+      "subMetas": {}
+    },
+    "Bam_2.mesh": {
+      "ver": "1.0.1",
+      "uuid": "95bf703f-d9f4-490f-9e9c-85507a99acdd",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707473993301,
+        "y": -0.260106772184372,
+        "z": -0.5095534324646
+      },
+      "maxPos": {
+        "x": 0.366708099842072,
+        "y": 0.260106801986694,
+        "z": 0.509553611278534
+      },
+      "name": "Bam_2.mesh",
+      "subMetas": {}
+    },
+    "Bam_3.mesh": {
+      "ver": "1.0.1",
+      "uuid": "db24dea7-0daf-4ae7-99c0-a02806aa7149",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707473993301,
+        "y": -0.260106772184372,
+        "z": -0.509553372859955
+      },
+      "maxPos": {
+        "x": 0.366708099842072,
+        "y": 0.260106772184372,
+        "z": 0.509553730487823
+      },
+      "name": "Bam_3.mesh",
+      "subMetas": {}
+    },
+    "Bam_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "f2e6cfa0-7275-4721-a19d-4042b34b171a",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707473993301,
+        "y": -0.260106772184372,
+        "z": -0.509553611278534
+      },
+      "maxPos": {
+        "x": 0.366708099842072,
+        "y": 0.260106772184372,
+        "z": 0.5095534324646
+      },
+      "name": "Bam_4.mesh",
+      "subMetas": {}
+    },
+    "Bam_5.mesh": {
+      "ver": "1.0.1",
+      "uuid": "c499cff2-f451-4988-8fa5-0daafeef09ed",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707473993301,
+        "y": -0.260106772184372,
+        "z": -0.509553551673889
+      },
+      "maxPos": {
+        "x": 0.366708099842072,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Bam_5.mesh",
+      "subMetas": {}
+    },
+    "Bam_6.mesh": {
+      "ver": "1.0.1",
+      "uuid": "6f5e1095-e60f-470f-ad55-c01b9a276600",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707473993301,
+        "y": -0.260106772184372,
+        "z": -0.509553849697113
+      },
+      "maxPos": {
+        "x": 0.366708099842072,
+        "y": 0.260106772184372,
+        "z": 0.509552955627441
+      },
+      "name": "Bam_6.mesh",
+      "subMetas": {}
+    },
+    "Bam_7.mesh": {
+      "ver": "1.0.1",
+      "uuid": "4511dcd3-474b-49c9-942f-d8ee1b8b3836",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.5095534324646
+      },
+      "maxPos": {
+        "x": 0.36670795083046,
+        "y": 0.260106772184372,
+        "z": 0.50955331325531
+      },
+      "name": "Bam_7.mesh",
+      "subMetas": {}
+    },
+    "Bam_8.mesh": {
+      "ver": "1.0.1",
+      "uuid": "68b5b905-ff6c-487e-b1c7-682255e9d07a",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553372859955
+      },
+      "maxPos": {
+        "x": 0.366708099842072,
+        "y": 0.260106772184372,
+        "z": 0.509553372859955
+      },
+      "name": "Bam_8.mesh",
+      "subMetas": {}
+    },
+    "Bam_9.mesh": {
+      "ver": "1.0.1",
+      "uuid": "a2686535-416d-4dc9-9505-e2a87fb04d07",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.36670771241188,
+        "y": -0.260106772184372,
+        "z": -0.509553611278534
+      },
+      "maxPos": {
+        "x": 0.366708189249039,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Bam_9.mesh",
+      "subMetas": {}
+    },
+    "Dice.mesh": {
+      "ver": "1.0.1",
+      "uuid": "a17d1a12-e9ce-4947-bf3f-b932193ec2a4",
+      "verts": 42,
+      "tris": 44,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.120000004768372,
+        "y": -0.119999997317791,
+        "z": -0.120000004768372
+      },
+      "maxPos": {
+        "x": 0.120000004768372,
+        "y": 0.119999997317791,
+        "z": 0.120000004768372
+      },
+      "name": "Dice.mesh",
+      "subMetas": {}
+    },
+    "Crak_8.mesh": {
+      "ver": "1.0.1",
+      "uuid": "682a8577-103e-4611-b696-033368c64ba7",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707921028137,
+        "y": -0.260106772184372,
+        "z": -0.509553611278534
+      },
+      "maxPos": {
+        "x": 0.366707682609558,
+        "y": 0.260106801986694,
+        "z": 0.509553492069244
+      },
+      "name": "Crak_8.mesh",
+      "subMetas": {}
+    },
+    "Crak_2.mesh": {
+      "ver": "1.0.1",
+      "uuid": "5d7c0e33-4827-40fc-8651-9f353b10495d",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707921028137,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707682609558,
+        "y": 0.260106801986694,
+        "z": 0.509553551673889
+      },
+      "name": "Crak_2.mesh",
+      "subMetas": {}
+    },
+    "Crak_3.mesh": {
+      "ver": "1.0.1",
+      "uuid": "1e895ff1-e00d-4433-b888-3853faba05d0",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707593202591,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707682609558,
+        "y": 0.260106801986694,
+        "z": 0.509553551673889
+      },
+      "name": "Crak_3.mesh",
+      "subMetas": {}
+    },
+    "Crak_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "10b71d7f-2247-4678-9366-57175e8d692e",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707921028137,
+        "y": -0.260106772184372,
+        "z": -0.509553551673889
+      },
+      "maxPos": {
+        "x": 0.366707682609558,
+        "y": 0.260106801986694,
+        "z": 0.509553492069244
+      },
+      "name": "Crak_4.mesh",
+      "subMetas": {}
+    },
+    "Crak_5.mesh": {
+      "ver": "1.0.1",
+      "uuid": "b628502f-84e6-4cd9-8075-290cf2c938b6",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707533597946,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366708278656006,
+        "y": 0.260106801986694,
+        "z": 0.5095534324646
+      },
+      "name": "Crak_5.mesh",
+      "subMetas": {}
+    },
+    "Crak_6.mesh": {
+      "ver": "1.0.1",
+      "uuid": "bb9c6a75-b29a-42d0-9df8-58c39d1a1471",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707921028137,
+        "y": -0.260106772184372,
+        "z": -0.509553372859955
+      },
+      "maxPos": {
+        "x": 0.366707980632782,
+        "y": 0.260106801986694,
+        "z": 0.509553492069244
+      },
+      "name": "Crak_6.mesh",
+      "subMetas": {}
+    },
+    "Crak_7.mesh": {
+      "ver": "1.0.1",
+      "uuid": "6437bf5e-6e0b-483c-838c-2a62f9f213a5",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707682609558,
+        "y": -0.260106772184372,
+        "z": -0.509553611278534
+      },
+      "maxPos": {
+        "x": 0.366708427667618,
+        "y": 0.260106801986694,
+        "z": 0.509553492069244
+      },
+      "name": "Crak_7.mesh",
+      "subMetas": {}
+    },
+    "Crak_1.mesh": {
+      "ver": "1.0.1",
+      "uuid": "e408219c-80f8-449d-95d1-95f813dcee4a",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366708219051361,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707742214203,
+        "y": 0.260106801986694,
+        "z": 0.509553611278534
+      },
+      "name": "Crak_1.mesh",
+      "subMetas": {}
+    },
+    "Crak_9.mesh": {
+      "ver": "1.0.1",
+      "uuid": "f0db3ea1-6b3a-4c5f-a5d9-55cc67a5896c",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366708248853683,
+        "y": -0.260106772184372,
+        "z": -0.509553611278534
+      },
+      "maxPos": {
+        "x": 0.366707682609558,
+        "y": 0.260106801986694,
+        "z": 0.509553492069244
+      },
+      "name": "Crak_9.mesh",
+      "subMetas": {}
+    },
+    "Dot_1.mesh": {
+      "ver": "1.0.1",
+      "uuid": "33d1e5dc-d22a-45eb-9d3f-9e1b4f4d64f9",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707295179367,
+        "y": -0.260106772184372,
+        "z": -0.509553372859955
+      },
+      "maxPos": {
+        "x": 0.366708219051361,
+        "y": 0.260106772184372,
+        "z": 0.509553372859955
+      },
+      "name": "Dot_1.mesh",
+      "subMetas": {}
+    },
+    "Dot_2.mesh": {
+      "ver": "1.0.1",
+      "uuid": "4f31c276-4656-4805-8ce8-ee60b805f6ff",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707384586334,
+        "y": -0.260106772184372,
+        "z": -0.509553611278534
+      },
+      "maxPos": {
+        "x": 0.366708219051361,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Dot_2.mesh",
+      "subMetas": {}
+    },
+    "Dot_3.mesh": {
+      "ver": "1.0.1",
+      "uuid": "72802739-ae0f-46dc-8267-c820c9bcb7c3",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707593202591,
+        "y": -0.260106772184372,
+        "z": -0.509553551673889
+      },
+      "maxPos": {
+        "x": 0.366708129644394,
+        "y": 0.260106772184372,
+        "z": 0.50955331325531
+      },
+      "name": "Dot_3.mesh",
+      "subMetas": {}
+    },
+    "Dot_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "4a129adb-e4b8-4e42-bcfa-429e55bb358e",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707921028137,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.36670783162117,
+        "y": 0.260106772184372,
+        "z": 0.50955331325531
+      },
+      "name": "Dot_4.mesh",
+      "subMetas": {}
+    },
+    "Dot_5.mesh": {
+      "ver": "1.0.1",
+      "uuid": "6f2a3b93-9e6b-4ee8-88f5-58971345b700",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707682609558,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366708427667618,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Dot_5.mesh",
+      "subMetas": {}
+    },
+    "Dot_6.mesh": {
+      "ver": "1.0.1",
+      "uuid": "dfbb391b-ca03-47cd-a8b7-976b73155eab",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366708278656006,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707921028137,
+        "y": 0.260106772184372,
+        "z": 0.509553611278534
+      },
+      "name": "Dot_6.mesh",
+      "subMetas": {}
+    },
+    "Dot_7.mesh": {
+      "ver": "1.0.1",
+      "uuid": "fa813772-7c13-471d-ad96-dc92da5bb501",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366708129644394,
+        "y": -0.260106772184372,
+        "z": -0.5095534324646
+      },
+      "maxPos": {
+        "x": 0.366707921028137,
+        "y": 0.260106772184372,
+        "z": 0.509553372859955
+      },
+      "name": "Dot_7.mesh",
+      "subMetas": {}
+    },
+    "Dot_8.mesh": {
+      "ver": "1.0.1",
+      "uuid": "b63bc16f-a4eb-4e2d-bf02-71d182efcdf3",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366708129644394,
+        "y": -0.260106772184372,
+        "z": -0.509553670883179
+      },
+      "maxPos": {
+        "x": 0.366707742214203,
+        "y": 0.260106772184372,
+        "z": 0.509553372859955
+      },
+      "name": "Dot_8.mesh",
+      "subMetas": {}
+    },
+    "Dot_9.mesh": {
+      "ver": "1.0.1",
+      "uuid": "1544ca00-702b-4525-8225-6e37d5ad0b63",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366708070039749,
+        "y": -0.260106772184372,
+        "z": -0.5095534324646
+      },
+      "maxPos": {
+        "x": 0.36670783162117,
+        "y": 0.260106772184372,
+        "z": 0.509553611278534
+      },
+      "name": "Dot_9.mesh",
+      "subMetas": {}
+    },
+    "Dragon_Green.mesh": {
+      "ver": "1.0.1",
+      "uuid": "fb5a1029-81c5-426b-99e1-3e169dd6806e",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.36670795083046,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.36670795083046,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Dragon_Green.mesh",
+      "subMetas": {}
+    },
+    "Dragon_Red.mesh": {
+      "ver": "1.0.1",
+      "uuid": "5418de29-d3f3-40c3-bee5-2bbfb2c8e0ac",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.36670795083046,
+        "y": -0.260106801986694,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.36670795083046,
+        "y": 0.260106801986694,
+        "z": 0.509553492069244
+      },
+      "name": "Dragon_Red.mesh",
+      "subMetas": {}
+    },
+    "Dragon_White.mesh": {
+      "ver": "1.0.1",
+      "uuid": "7f760548-5807-443c-8835-de73f08454f2",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.36670795083046,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Dragon_White.mesh",
+      "subMetas": {}
+    },
+    "Dragon_Blank.mesh": {
+      "ver": "1.0.1",
+      "uuid": "6945fc01-6c71-4bef-a2d3-3745b8a61af5",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.36670795083046,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Dragon_Blank.mesh",
+      "subMetas": {}
+    },
+    "Wind_East.mesh": {
+      "ver": "1.0.1",
+      "uuid": "06536841-3de3-418a-aaae-bbce733e1b63",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Wind_East.mesh",
+      "subMetas": {}
+    },
+    "Wind_North.mesh": {
+      "ver": "1.0.1",
+      "uuid": "0c6ba2a1-95be-4eb3-ad6f-38480a1f9892",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Wind_North.mesh",
+      "subMetas": {}
+    },
+    "Wind_South.mesh": {
+      "ver": "1.0.1",
+      "uuid": "071afe36-efbf-4b0f-aacd-052483a7b08b",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Wind_South.mesh",
+      "subMetas": {}
+    },
+    "Wind_West.mesh": {
+      "ver": "1.0.1",
+      "uuid": "66f54ea9-32b3-4f3e-8490-06139ed6c059",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Wind_West.mesh",
+      "subMetas": {}
+    },
+    "Flower_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "aecba623-0145-45a1-8de7-2e9e97e9696e",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Flower_4.mesh",
+      "subMetas": {}
+    },
+    "Flower_2.mesh": {
+      "ver": "1.0.1",
+      "uuid": "6ea37629-efe6-414f-9af8-4f33f44e32b4",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Flower_2.mesh",
+      "subMetas": {}
+    },
+    "Flower_1.mesh": {
+      "ver": "1.0.1",
+      "uuid": "79d00d41-5535-43e1-a85b-969b7a3d3270",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Flower_1.mesh",
+      "subMetas": {}
+    },
+    "Flower_3.mesh": {
+      "ver": "1.0.1",
+      "uuid": "35e2b131-0cbf-45ad-ab29-b5e2d76c63d4",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Flower_3.mesh",
+      "subMetas": {}
+    },
+    "Season_2.mesh": {
+      "ver": "1.0.1",
+      "uuid": "2832b46d-559c-40b4-86b9-0cb414eccce0",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Season_2.mesh",
+      "subMetas": {}
+    },
+    "Season_1.mesh": {
+      "ver": "1.0.1",
+      "uuid": "a13e5e85-1ae5-44a7-bf8d-4aba3138ff7b",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Season_1.mesh",
+      "subMetas": {}
+    },
+    "Season_3.mesh": {
+      "ver": "1.0.1",
+      "uuid": "5de7bb72-9e78-4c9b-a9e7-d0030566fdc0",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Season_3.mesh",
+      "subMetas": {}
+    },
+    "Season_4.mesh": {
+      "ver": "1.0.1",
+      "uuid": "4c11b42a-3756-4260-9efc-2361c98a599a",
+      "verts": 140,
+      "tris": 236,
+      "submeshes": 1,
+      "attributes": [
+        [
+          "NORMAL",
+          "POSITION",
+          "TEXCOORD_0"
+        ]
+      ],
+      "minPos": {
+        "x": -0.366707801818848,
+        "y": -0.260106772184372,
+        "z": -0.509553492069244
+      },
+      "maxPos": {
+        "x": 0.366707801818848,
+        "y": 0.260106772184372,
+        "z": 0.509553492069244
+      },
+      "name": "Season_4.mesh",
+      "subMetas": {}
+    },
+    "MahjongTiles.prefab": {
+      "ver": "1.2.7",
+      "uuid": "b0d83933-fe29-4679-9e8d-552e9a158263",
+      "optimizationPolicy": "AUTO",
+      "asyncLoadAssets": false,
+      "readonly": true,
+      "content": [
+        {
+          "__type__": "cc.Prefab",
+          "_name": "",
+          "_objFlags": 0,
+          "data": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.Node",
+          "_name": "Sprite",
+          "_objFlags": 0,
+          "_opacity": 255,
+          "_color": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 255
+          },
+          "_cascadeOpacityEnabled": true,
+          "_parent": null,
+          "_anchorPoint": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "_contentSize": {
+            "__type__": "cc.Size",
+            "width": 40,
+            "height": 36
+          },
+          "_children": [],
+          "_skewX": 0,
+          "_skewY": 0,
+          "_localZOrder": 0,
+          "_globalZOrder": 0,
+          "_tag": -1,
+          "_opacityModifyRGB": false,
+          "_reorderChildDirty": false,
+          "_id": "",
+          "_active": true,
+          "_components": [
+            {
+              "__id__": 2
+            }
+          ],
+          "_prefab": {
+            "__id__": 3
+          },
+          "_eulerAngles": {
+            "__type__": "cc.Vec3",
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "_trs": {
+            "__type__": "TypedArray",
+            "ctor": "Float64Array",
+            "array": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "__type__": "cc.Sprite",
+          "_name": "",
+          "_objFlags": 0,
+          "node": {
+            "__id__": 1
+          },
+          "_enabled": true,
+          "_spriteFrame": {
+            "__uuid__": "8cdb44ac-a3f6-449f-b354-7cd48cf84061"
+          },
+          "_type": 0,
+          "_sizeMode": 1,
+          "_fillType": 0,
+          "_fillCenter": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          },
+          "_fillStart": 0,
+          "_fillRange": 0,
+          "_isTrimmedMode": true,
+          "_srcBlendFactor": 770,
+          "_dstBlendFactor": 771,
+          "_atlas": null
+        },
+        {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": null,
+          "fileId": "d7118yAG5lKybkFOAh8koPL"
+        }
+      ],
+      "name": "MahjongTiles.prefab",
+      "subMetas": {}
+    },
+    "01 - Default.mtl": {
+      "ver": "1.0.3",
+      "uuid": "cb85c0e0-92ca-4db9-9209-2157bdbde09f",
+      "dataAsSubAsset": null,
+      "name": "01 - Default.mtl",
+      "subMetas": {}
+    }
+  }
+}

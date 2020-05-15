@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Mahjong",
+  "uuid": "4c61ce18-ada9-46ce-adb2-92f5563fa8d8",
+  "version": "2.3.3",
+  "id": "16e5a58a-8784-4219-81cc-3f7056bbbf77",
+  "isNew": false
+}
